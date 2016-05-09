@@ -1,0 +1,28 @@
+name: Grant Gibson
+favicon: null
+layout_spectrum: 0.9023461695760489
+typography_spectrum: 0.4677043913397938
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8277439267840236
+  lightness: 0.3445271903183311
+  saturation: 0.7960207571741194
+  rhythmicContrast: 0.3445385782979429
+purpose: []
